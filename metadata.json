@@ -1,0 +1,5 @@
+{
+  "name": "Nostr Lightning Rewards",
+  "description": "A decentralized rewards system website where users can authenticate with Nostr, earn points via Bitcoin Lightning payments, and redeem them for products. This application simulates the frontend experience.",
+  "requestFramePermissions": []
+}
